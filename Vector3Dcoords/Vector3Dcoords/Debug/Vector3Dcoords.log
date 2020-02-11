@@ -1,0 +1,7 @@
+﻿  Vector3.cpp
+  T:\Vector3Dcoords\Vector3Dcoords\Vector3.cpp(31) : error C4716: 'CVector3::operator-': must return a value
+  T:\Vector3Dcoords\Vector3Dcoords\Vector3.cpp(45) : error C4716: 'CVector3::operator*': must return a value
+  T:\Vector3Dcoords\Vector3Dcoords\Vector3.cpp(53) : error C4716: 'CVector3::operator*': must return a value
+  T:\Vector3Dcoords\Vector3Dcoords\Vector3.cpp(76) : error C4716: 'CVector3::operator/': must return a value
+  T:\Vector3Dcoords\Vector3Dcoords\Vector3.cpp(84) : error C4716: 'CVector3::operator/': must return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.
